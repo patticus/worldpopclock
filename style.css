@@ -1,0 +1,30 @@
+*, #clock {
+  margin: 20px auto;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 40px;
+  color: #fff;
+  text-shadow: 3px 3px 5px #000000;
+  font-size: 44px;
+  font-family: calibri;
+}
+
+#worldpop {
+  font-weight: bold;
+  font-size: 100px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url(earth.jpg) no-repeat center center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  padding-top: 80px;
+}
